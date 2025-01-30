@@ -1,8 +1,6 @@
 ### Introduction to Data Analytics  
 Data Analytics involves examining raw data to find patterns and insights that can inform decision-making.
 
-#### Types of Data Analytics  
-1. **Descriptive:** What happened?  
-2. **Diagnostic:** Why did it happen?  
-3. **Predictive:** What will happen?  
-4. **Prescriptive:** What should we do about it?  
+Businesses today recognize the untapped value in data and data analytics as a crucial factor for business competitiveness. To drive their data and analytics initiatives, companies are hiring and Upskilling people. They are expanding their teams and creating centers of excellence to set up a multi-pronged data and analytics practice in their organizations.
+
+
